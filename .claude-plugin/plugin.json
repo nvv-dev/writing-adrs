@@ -1,0 +1,16 @@
+{
+  "name": "writing-adrs",
+  "version": "0.1.0",
+  "description": "Short ADRs in docs/adr/ with context, options, decision and honest consequences.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/writing-adrs",
+  "repository": "https://github.com/nvv-dev/writing-adrs",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "dev-workflow"
+  ]
+}
